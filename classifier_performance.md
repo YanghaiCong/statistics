@@ -16,6 +16,10 @@ confusion matrix
 
 > Accuracy = ( TP + TN ) / ( TP + FN + FP + TN )
 
+**Precision** determines the fraction of records that actually turns out to be positive in the group the classifier has declared as a positive class
+
+> Percision = TP / ( TP + FP )
+
 **Truth positive rate** (**TPR**) [**sensitivity**|**Recall**] is defined as the fraction of positive examples predicted correctly
 
 > TPR = TP / ( TP + FN )
@@ -32,9 +36,6 @@ confusion matrix
 
 > FNR = FN / ( FN + TP )
 
-**Precision** determines the fraction of records that actually turns out to be positive in the group the classifier has declared as a positive class
-
-> Percision = TP / ( TP + FP )
 
 # the Receiver Operating Characteristic Curve
 
