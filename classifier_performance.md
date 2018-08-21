@@ -34,6 +34,7 @@ confusion matrix
 
 **Precision** determines the fraction of records that actually turns out to be positive in the group the classifier has declared as a positive class
 
+> Percision = TP / ( TP + FP )
 
 # the Receiver Operating Characteristic Curve
 
