@@ -1,4 +1,4 @@
-# alternative metrics
+# performance metrics
 
 confusion matrix  
   
@@ -11,7 +11,11 @@ confusion matrix
     |           +-----+------------+------------+  
     |   class   |  -  |  f-+ (FP)  |  f-- (TN)  |  
     +-----------+-----+------------+------------+  
-    
+
+**Accuracy** is the number of correct predictions made by the model over all kinds predictions made
+
+> Accuracy = ( TP + TN ) / ( TP + FN + FP + TN )
+
 **Truth positive rate** (**TPR**) [**sensitivity**|**Recall**] is defined as the fraction of positive examples predicted correctly
 
 > TPR = TP / ( TP + FN )
