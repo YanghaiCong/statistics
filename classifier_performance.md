@@ -36,6 +36,9 @@ confusion matrix
 
 > FNR = FN / ( FN + TP )
 
+**Weighted Accuracy**
+
+> Weighted Accuracy = ( w1\*TP + w4\*TN ) / ( w1\*TP + w2\*FP + w3\*FN + w4\*TN )
 
 # the Receiver Operating Characteristic Curve
 
