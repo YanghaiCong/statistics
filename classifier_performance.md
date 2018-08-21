@@ -1,7 +1,6 @@
-# performance metrics
+# Performance Metrics
 
-confusion matrix  
-  
+    Confusion Matrix  
     +-----------------+-------------------------+  
     |                 |  predicted class        |  
     |                 +------------+------------+  
