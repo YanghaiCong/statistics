@@ -33,4 +33,8 @@ confusion matrix
 
 # the Receiver Operating Characteristic Curve
 
+A Receiver Operating Characteristic (**ROC**) curve is a graphical approach for displaying the tradeoff between TPR and FPR of a classifier.
+The area under the ROC curve (**AUC**) provides anthor approach for evaluating which model is better on average.
+
+[ROC curve](https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png)
 
