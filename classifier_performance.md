@@ -11,6 +11,8 @@
     |           +-----+------------+------------+  
     |   class   |  -  |  f-+ (FP)  |  f-- (TN)  |  
     +-----------+-----+------------+------------+  
+    **Positive** or **Negative** indicates the predicted classes
+    **True**     or **False**    indicates the relatationship between actual and predicted classes
 
 **Accuracy** is the number of correct predictions made by the model over all kinds predictions made
 
