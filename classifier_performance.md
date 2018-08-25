@@ -18,6 +18,10 @@
 
 > Accuracy = ( TP + TN ) / ( TP + FN + FP + TN )
 
+**Error rate** is the number of incorrect predictions made by the model over all kinds predictions made
+
+> Error rate = ( FN + FP ) / ( TP + FN + FP + TN )
+
 **Precision** determines the fraction of records that actually turns out to be positive in the group the classifier has declared as a positive class
 
 > Percision = TP / ( TP + FP )
