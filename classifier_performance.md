@@ -26,11 +26,11 @@
 
 > Percision = TP / ( TP + FP )
 
-**Truth positive rate** (**TPR**) [**sensitivity**|**Recall**|**灵敏度**] is defined as the fraction of positive examples predicted correctly
+**Truth positive rate** (**TPR**) [**sensitivity**|**Recall**|**敏感性**|**灵敏度**] is defined as the fraction of positive examples predicted correctly
 
 > TPR = TP / ( TP + FN )
 
-**Truth negative rate** (**TNR**) [**specificity**|**特指度**] is defined as the fraction of negative examples predicted correctly
+**Truth negative rate** (**TNR**) [**specificity**|**特异性**|**特指度**] is defined as the fraction of negative examples predicted correctly
 
 > TNR = TN / ( TN + FP )
 
