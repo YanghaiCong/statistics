@@ -13,6 +13,7 @@
 set.seed(100)
 x <- rnorm(50, mean = 10, sd = 0.5)
 t.test(x, mu=10) # testing if mean of x could be
+
 ###############################
 #2. Wilcoxon Signed Rank Test #
 ###############################
